@@ -11,7 +11,7 @@ Após, pelo terminal/CMD, navege até o diretório e execute o comando <br />
 Este comando irá criar uma imagem com todos os pre-requisitos para a instalação do SAP.
 
 Verifique se a imagem foi criada corretamente com o comando<br />
-*docker images*
+_docker images_
 
 
 Então, rode o camando abaixo para criar o container para o servidor, montado o diretório dos arquivos e liberando as portas que vamos usar:<br />
